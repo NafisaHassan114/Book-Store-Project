@@ -189,9 +189,12 @@
     .home h1{
         font-size: 1.7rem;
     }
+    .header{
+        width: auto;
+    }
 
     .home p{
-        width: 100%;
+        width: 320px;
     }
 
 
